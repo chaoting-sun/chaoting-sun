@@ -1,8 +1,8 @@
 ### Hi, I'm Chaoting
 
-I completed my Master's degree in Chemical Engineering from [National Taiwan University](https://www.ntu.edu.tw/), Taiwan. Currently, I am immersed in learning modern web development techniques with the goal of becoming a full-stack web software engineer.
+I completed my Master's degree in Chemical Engineering from [National Taiwan University](https://www.ntu.edu.tw/), Taiwan. I am immersed in learning modern web development techniques, and now I am a frontend engineer.
 
-
+![](https://komarev.com/ghpvc/?username=chaoting-sun)
 
 ## Skills
 
